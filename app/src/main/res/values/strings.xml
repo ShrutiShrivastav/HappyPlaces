@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter a phone number</string>
+    <string name="invalid_phone">Enter a valid phone number</string>
+    <string name="email_error">Please enter a email address</string>
+    <string name="error_invalid_email">Email is not valid</string>
+    <string name="error_invalid_phone">Mobile Number is not valid</string>
+    <string name="error_invalid_name">Please enter Username of minimum 6 characters</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Password is too Weak</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="hint_enterUserName">Enter email</string>
+    <string name="password">Enter password</string>
+    <string name="txt_powered_by">Powered By</string>
+
+    <string name="app_name">Happy Places</string>
+
+    <string name="google_maps_api_key">AIzaSyA-Ew-EcB5r16uPcPLsva01uj3yrvPeJTw</string>
+
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">No Happy Places Found Yet. Kindly add one.</string>
+    <string name="image_content_description">image</string>
+
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+    <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
+</resources>
